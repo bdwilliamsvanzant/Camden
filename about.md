@@ -8,11 +8,11 @@
 <div>
 <div id="header">
 
-[![Image](images/logo.png)](index)	
-*   [Home](index)
-*   [Menu](menu)
-*   [Locations](locations)
-*   [About Us](about)
+[![Image](images/logo.png)](index.html)	
+*   [Home](index.html)
+*   [menu](menu.html)
+*   [Locations](locations.html)
+*   [About Us](about.html)
 
 </div>
 <div id="body">
@@ -47,14 +47,14 @@ Who we kidding? You just want caffeine.
 <div id="footer">
     <div>
 
-[![Image](images/logo2.png)](index) © Ben's caffeine Break 2019\. All Rights Reserved.
+[![Image](images/logo2.png)](index.html) © Ben's caffeine Break 2019\. All Rights Reserved.
 </div>
 <div class="section">
 	
-*   [Home](index)
-*   [Menu](menu)
-*   [Locations](locations)
-*   [About Us](about)
+*   [Home](index.html)
+*   [menu](menu.html)
+*   [Locations](locations.html)
+*   [About Us](about.html)
 
 </div>
         </div>

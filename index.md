@@ -9,11 +9,11 @@
 		<div>
             <div id="header">
 
-[![Image](images/logo.png)](index)
-*   [Home](index)
-*   [Menu](menu)
-*   [Locations](locations)
-*   [About Us](about)
+[![Image](images/logo.png)](index.html)
+*   [Home](index.html)
+*   [Menu](menu.html)
+*   [Locations](locations.html)
+*   [About Us](about.html)
 
 </div>
 <div id="body">
@@ -23,21 +23,21 @@
 
 <span id="home">
 
-Do you like to smell the caffeine coming off your coffee? Weird but heres our menu. [Get Caffeine.](menu)
+Do you like to smell the caffeine coming off your coffee? Weird but heres our menu. [Get Caffeine.](menu.html)
 
 </span>
 </div>
 <div id="featured">
 <span class="whatshot">
 
-[Find out more](menu)
+[Find out more](menu.html)
 
 </span>
 <div>
 
-[![Image](images/coffee4.jpg)](menu) 
-[![Image](images/coffee5.jpg)](menu) 
-[![Image](images/coffee3.jpg)](menu)
+[![Image](images/coffee4.jpg)](menu.html) 
+[![Image](images/coffee5.jpg)](menu.html) 
+[![Image](images/coffee3.jpg)](menu.html)
 
 </div>
 </div>
@@ -60,15 +60,15 @@ Do you like to smell the caffeine coming off your coffee? Weird but heres our me
 <div id="footer">
     <div>
 
-[![Image](images/logo2.png)](index) © Ben's caffeine Break 2019\. All Rights Reserved.
+[![Image](images/logo2.png)](index.html) © Ben's caffeine Break 2019\. All Rights Reserved.
 
 </div>
 <div class="section">
 	
-*   [Home](index)
-*   [Menu](menu)
-*   [Locations](locations)
-*   [About Us](about)
+*   [Home](index.html)
+*   [Menu](menu.html)
+*   [Locations](locations.html)
+*   [About Us](about.html)
 
 </div>
 </div>

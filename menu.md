@@ -1,6 +1,6 @@
 <head>
 	<meta charset="UTF-8">
-	<title>Ben's Menu</title>
+	<title>Ben's menu</title>
     <link rel="stylesheet" type="text/css" media="all" href="css/style.css" />
 </head>
 
@@ -8,11 +8,11 @@
 <div>
     <div id="header">
 
-[![Image](images/logo.png)](index)
-*   [Home](index)
-*   [Menu](menu)
-*   [Locations](locations)
-*   [About Us](about)
+[![Image](images/logo.png)](index.html)
+*   [Home](index.html)
+*   [menu.html](menu.html)
+*   [Locations](locations.html)
+*   [About Us](about.html)
     </div>
 
 <div id="body">
@@ -78,14 +78,14 @@ Caffeine fuel services
 <div id="footer">
     <div>
 
-[![Image](images/logo2.png)](index) © Ben's Caffeine Break 2019\. All Rights Reserved.
+[![Image](images/logo2.png)](index.html) © Ben's Caffeine Break 2019\. All Rights Reserved.
 </div>
 <div class="section">
 	
-*   [Home](index)
-*   [Menu](menu)
-*   [Locations](locations)
-*   [About Us](about)
+*   [Home](index.html)
+*   [menu.html](menu.html)
+*   [Locations](locations.html)
+*   [About Us](about.html)
 
 </div>
         </div>
